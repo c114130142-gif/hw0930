@@ -1,10 +1,10 @@
 ＃9/30上課筆記
-[]
+[本課程主網頁](https://rmilab.nkust.edu.tw)
 
 
+[python](#python-筆記)
 
-
-
+[javascript](#javascript)
 
 
 ##markdown 快速提要
